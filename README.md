@@ -9,10 +9,10 @@ GitHub Profile: https://github.com/Yashwanth-Damera
  Github Markdown
 
 ### Technical Skills:
-Languages: C, Java, Javascript
-Databases: SQL, MSQL, MongoDB, FireBase
-Version Control: GitHub
-Tools: Android Studio, NetBeans, Eclipse
+- Languages: C, Java, Javascript
+- Databases: SQL, MSQL, MongoDB, FireBase
+- Version Control: GitHub
+- Tools: Android Studio, NetBeans, Eclipse
 
 ### Educational Qualifications
 - I have did my undergraduation in Information technology from Gitam University with an aggregate of 71.5%.
