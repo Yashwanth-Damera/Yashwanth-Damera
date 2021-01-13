@@ -18,5 +18,5 @@ Tools: Android Studio, NetBeans, Eclipse
 - I have did my undergraduation in Information technology from Gitam University with an aggregate of 71.5%.
 - I have did my Intermediate from Narayana Junior College, Hyderabad.
 
-LinkedIn Profile:
+### LinkedIn Profile:
 LinkedIn: https://www.linkedin.com/in/venkata-yashwanth-damera-378750159/
